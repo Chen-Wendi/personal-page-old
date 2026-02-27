@@ -12,7 +12,7 @@ layout: default
 
 
 ```txt
-From: 18 February 2026 - To: 25 February 2026
+From: 19 February 2026 - To: 26 February 2026
 
 Markdown     4 hrs 24 mins         ███████████░░░░░░░░░░░░░░   44.30 %
 Python       2 hrs 20 mins         ██████░░░░░░░░░░░░░░░░░░░   23.46 %
