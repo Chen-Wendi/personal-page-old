@@ -12,9 +12,12 @@ layout: default
 
 
 ```txt
-From: 13 July 2026 - To: 20 July 2026
+From: 14 July 2026 - To: 21 July 2026
 
-No activity tracked
+HTML     1 hr 53 mins          █████████████████████▓░░░   86.34 %
+Other    8 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
+TeX      8 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
+BibTeX   1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
 ```
 
 
