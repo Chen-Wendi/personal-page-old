@@ -12,9 +12,13 @@ layout: default
 
 
 ```txt
-From: 03 August 2026 - To: 10 August 2026
+From: 04 August 2026 - To: 11 August 2026
 
-No activity tracked
+Markdown     2 hrs 53 mins         ████████░░░░░░░░░░░░░░░░░   31.66 %
+HTML         1 hr 40 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.34 %
+XML          1 hr 24 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.36 %
+Mermaid      1 hr 14 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.70 %
+Python       48 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 %
 ```
 
 
