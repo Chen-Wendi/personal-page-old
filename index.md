@@ -12,13 +12,13 @@ layout: default
 
 
 ```txt
-From: 11 October 2026 - To: 18 October 2026
+From: 12 October 2026 - To: 19 October 2026
 
-JSON          17 hrs 31 mins        ██████████░░░░░░░░░░░░░░░   39.42 %
-Markdown      8 hrs 54 mins         █████░░░░░░░░░░░░░░░░░░░░   20.05 %
-Python        8 hrs 28 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.06 %
-JavaScript    3 hrs 7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
-HTML          2 hrs 28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+JSON          17 hrs 31 mins        ██████████▓░░░░░░░░░░░░░░   42.50 %
+Markdown      8 hrs 42 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.14 %
+Python        8 hrs 2 mins          █████░░░░░░░░░░░░░░░░░░░░   19.50 %
+JavaScript    3 hrs 7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
+HTML          2 hrs 27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
 ```
 
 
